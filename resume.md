@@ -5,4 +5,4 @@ description: Take a look at my resume!
 ---
 
 ## Resume
-<a href="{{site.links.resume}}" target="_blank" rel="noopener noreferrer" class="btn">View Resume in Google Drive</a>
+<a href="{{site.links.resume}}" target="_blank" rel="noopener noreferrer">View Resume in Google Drive</a>
