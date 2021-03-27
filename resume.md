@@ -5,4 +5,4 @@ description: Take a look at my resume!
 ---
 
 ## Resume
-[View Resume in Google Drive](https://drive.google.com/file/d/1MN1CxtJuorWls450DctnjG77KdvZspG-/view?usp=sharing)
+<a href="{{site.links.resume}}" target="_blank" rel="noopener noreferrer" class="btn">View Resume in Google Drive</a>
