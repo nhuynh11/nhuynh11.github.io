@@ -11,3 +11,8 @@ This is a personal IOT project I've been working on. The goal of this project is
 <div style="text-align: center;"><img src="./resources/images/aqua_temps.png" alt="Temperature Graph" style="width:700px; height:auto;"></div>
 
 <a href="{{site.links.github.aquarium}}" target="_blank" rel="noopener noreferrer">Github Repository</a>
+
+## Linear Program Tracker
+Personal project to track a linear workout program. Initially started to record my gym sessions.  This is still a work in progress.  Using Django, PostgreSQL, React.
+
+<a href="{{site.links.github.aquarium}}" target="_blank" rel="noopener noreferrer">Github Repository</a>
