@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 title: Nicholas Huynh
-description: Welcome to my portfolio!
+description: THIS PORTFOLIO SITE IS NO LONGER BEING USED. PLEASE VISIT NICHOLASHUYNH.COM
 
 links:
   linkedin: https://www.linkedin.com/in/nicholas-huynh111/
@@ -12,3 +12,4 @@ links:
   github:
     aquarium: https://github.com/nhuynh11/AquariumManager
     workout: https://github.com/nhuynh11/LinearProgramTracker
+  portfolio: https://www.nicholashuynh.com/
